@@ -86,6 +86,14 @@ npm install or yarn
 npm run serve or yarn (run) serve
 ```
 
+注意，如果网络不佳，建议使用淘宝镜像源：
+
+```bash
+npm config set registry https://registry.npm.taobao.org
+
+npm config set sass_binnary_site https://npm.taobao.org/mirrors/node-sass
+```
+
 ## 讨论交流
 微信公众号搜索：林间有风
 <br>
